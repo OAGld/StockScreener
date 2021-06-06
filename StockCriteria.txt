@@ -1,0 +1,7 @@
+[criteria]
+Current_Ratio = 1.0
+TrailingYield = 4.0
+CurrentYield = 4.0
+Profit_Margin = 5.0
+RoA = 5.0
+RoE = 5.0
