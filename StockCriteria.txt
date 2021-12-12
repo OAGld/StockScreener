@@ -1,7 +1,11 @@
+[Path]
+Save = C:\Users\Oddne\OneDrive\Dokumenter\Programming\Python\StockScreener\Notepad_version\stocks\
+Tickerlist = C:\Users\Oddne\OneDrive\Dokumenter\Programming\Python\StockScreener\Notepad_version\Tickerlist.txt
+
 [criteria]
 Current_Ratio = 1.0
-TrailingYield = 4.0
-CurrentYield = 4.0
-Profit_Margin = 5.0
-RoA = 5.0
-RoE = 5.0
+Debt_Equity_Ratio = 2.0
+PE-PB_ratio = 70.0
+Shares_Outstanding = 1000.0
+CurrentYield = 1.0
+
